@@ -1,4 +1,4 @@
-# 12V to 5V Buck Regulator (TPS56339)
+# 12V to 5V Buck Regulator (TPS56339) - 
 
 A compact synchronous step-down (buck) converter PCB based on the Texas Instruments **TPS56339**, converting a 12 V input to a regulated 5 V output at up to 3 A.
 
